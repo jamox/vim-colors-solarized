@@ -302,9 +302,9 @@ elseif g:solarized_termcolors == 256
     let s:vmode       = "cterm"
     let s:base03      = "234"
     let s:base02      = "235"
-    let s:base01      = "242"
-    let s:base00      = "240"
-    let s:base0       = "244"
+    let s:base01      = "243"
+    let s:base00      = "245" "rel/com
+    let s:base0       = "248" " p
     let s:base1       = "245"
     let s:base2       = "187"
     let s:base3       = "230"
